@@ -65,6 +65,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <a href = "https://github-readme-stats.vercel.app/api?username=ManishRB21" /></a>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRB21
+<a href = "https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRB21" /></a>
 
 
