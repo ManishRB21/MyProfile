@@ -63,12 +63,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ManishRB21&theme=dark&border_radius=3.5" alt="GitHub Streak" /></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+https://github-readme-stats.vercel.app/api?username=ManishRB21
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRB21
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ManishRB21=your-github-ManishRB21&layout=compact&theme=vision-friendly-dark)](https://github.com/ManishRB21/github-readme-stats)
