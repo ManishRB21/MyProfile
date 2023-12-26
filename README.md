@@ -63,7 +63,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ManishRB21&theme=dark&border_radius=3.5" alt="GitHub Streak" /></a>
 
-https://github-readme-stats.vercel.app/api?username=ManishRB21
+<a href = "https://github-readme-stats.vercel.app/api?username=ManishRB21" /></a>
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRB21
 
