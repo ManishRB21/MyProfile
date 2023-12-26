@@ -13,7 +13,7 @@
   </a>
  </div>
 
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-ManishRB21&style=flat-square&color=blue" alt=""/>
 
   <h1>
   HEY THERE
@@ -56,5 +56,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="40" height="40"/>
 </div>
+---
 
+### :fire: My Stats :
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ManishRB21&theme=dark&border_radius=3.5" alt="GitHub Streak" /></a>
 
